@@ -1,3 +1,14 @@
+# [LUOMUS PATCHED REPO] Development notes for this branch
+
+1. Commit changes to `develop` branch
+2. Merge change to `luomus-build` branch
+3. run `npm run build`
+4. push to git
+5. Update `leaflet-draw` commit hash in `laji-map` `package.json`
+6. ???
+7. Profit!
+
+
 [![GitHub version](https://badge.fury.io/gh/Leaflet%2Fleaflet.draw.svg)](https://badge.fury.io/gh/Leaflet%2Fleaflet.draw)
 [![npm version](https://badge.fury.io/js/leaflet-draw.svg)](https://badge.fury.io/js/leaflet-draw)
 [![NPM Downloads](https://img.shields.io/npm/dt/leaflet-draw.svg)](https://www.npmjs.com/package/leaflet-draw)
